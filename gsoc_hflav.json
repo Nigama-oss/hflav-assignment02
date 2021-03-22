@@ -1,4 +1,5 @@
-[
+{
+"keys" : [
     {
         "name": "BR_Lambdab0_K-_D0_p.-BR_Lambdab0_pi-_D0_p",
         "latex": "\\frac{{\\cal{B}} ( \\Lambda_b^{0} \\to D^{0} p K^{-} ) }{ {\\cal{B}} ( \\Lambda_b^{0} \\to D^{0} p \\pi^{-} )}",
@@ -8469,3 +8470,4 @@
         ]
     }
 ]
+}
